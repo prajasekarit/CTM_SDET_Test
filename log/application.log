@@ -1,0 +1,250 @@
+2020-02-09 21:50:36,632 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:50:42,471 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 21:50:42,474 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 21:50:51,801 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 21:50:52,316 [main] INFO CTM SDET test - ********Valid Post code passed to the Post code field*********
+2020-02-09 21:50:52,317 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-09 21:50:55,278 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-09 21:50:55,289 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-09 21:51:02,201 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-09 21:51:02,202 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-09 21:51:05,430 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:51:05,430 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:51:05,686 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:51:14,910 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-09 21:51:18,489 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-09 21:51:21,745 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-09 21:51:21,802 [main] INFO CTM SDET test - *****************Click on Next Button***************
+2020-02-09 21:51:22,218 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-09 21:51:22,381 [main] INFO CTM SDET test - *****************Select the Amount Field in Current Electricity Usage***************
+2020-02-09 21:51:30,544 [main] INFO CTM SDET test - *****************Validate The Bill date fields get populated in Screen***************
+2020-02-09 21:51:30,655 [main] INFO CTM SDET test - *****************Select the KWH in Current Electricity Usage***************
+2020-02-09 21:51:31,143 [main] INFO CTM SDET test - *****************Validate Current Electricity Usage fields displayed ***************
+2020-02-09 21:51:31,338 [main] INFO CTM SDET test - *****************Select the KWH in Current Electricity Usage***************
+2020-02-09 21:51:31,689 [main] INFO CTM SDET test - *****************Validate fields get populated in Screen***************
+2020-02-09 21:51:32,533 [main] INFO CTM SDET test - *****************Validate Your Gas page ***************
+2020-02-09 21:51:32,828 [main] INFO CTM SDET test - *****************Click on Next Button ***************
+2020-02-09 21:51:33,106 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-09 21:51:33,228 [main] INFO CTM SDET test - *****************Select the Amount Field in Current Gas Usage***************
+2020-02-09 21:51:38,494 [main] INFO CTM SDET test - *****Verify the Calendar is getting Displayed when Amount is Selected*********
+2020-02-09 21:51:38,610 [main] INFO CTM SDET test - *****************Select the KWh Field in Current Gas Usage***************
+2020-02-09 21:51:38,760 [main] INFO CTM SDET test - *****Verify the Calendar is not getting Displayed when Kwh is Selected*********
+2020-02-09 21:51:39,036 [main] INFO CTM SDET test - *****************Click on Next Button ***************
+2020-02-09 21:51:39,419 [main] INFO CTM SDET test - *****Validate Your Details Page*********
+2020-02-09 21:51:40,336 [main] INFO CTM SDET test - *****Close the Browser*********
+2020-02-09 21:51:40,503 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:51:52,282 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-09 21:51:55,688 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-09 21:52:14,908 [main] INFO CTM SDET test - *****************Validate Your Details page***************
+2020-02-09 21:52:15,022 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-09 21:52:15,242 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-09 21:52:15,373 [main] INFO CTM SDET test - *****************Select the Fixed Tarif***************
+2020-02-09 21:52:15,575 [main] INFO CTM SDET test - *****************Select the Monthly Direct Debit***************
+2020-02-09 21:52:15,777 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-09 21:52:15,945 [main] INFO CTM SDET test - ***************** Check The Different Error message ***************
+2020-02-09 21:52:15,981 [main] INFO CTM SDET test - ***************** Check The Contact Details Text ***************
+2020-02-09 21:52:16,031 [main] INFO CTM SDET test - ***************** Check The Email Field ***************
+2020-02-09 21:52:16,408 [main] INFO CTM SDET test - ***************** Check The Email Field for Error***************
+2020-02-09 21:52:16,455 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-09 21:52:17,173 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-09 21:52:17,338 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:52:26,602 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-09 21:52:29,841 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-09 21:52:47,267 [main] INFO CTM SDET test - *****************Validate Your Details page***************
+2020-02-09 21:52:47,377 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-09 21:52:47,579 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-09 21:52:47,672 [main] INFO CTM SDET test - *****************Select the Fixed Tarif***************
+2020-02-09 21:52:47,860 [main] INFO CTM SDET test - *****************Select the Monthly Direct Debit***************
+2020-02-09 21:52:48,081 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-09 21:52:48,243 [main] INFO CTM SDET test - ***************** Check The Different Error message ***************
+2020-02-09 21:52:48,279 [main] INFO CTM SDET test - ***************** Check The Contact Details Text ***************
+2020-02-09 21:52:48,325 [main] INFO CTM SDET test - ***************** Check The Email Field ***************
+2020-02-09 21:52:48,657 [main] INFO CTM SDET test - ***************** Check The Email Field for Error***************
+2020-02-09 21:52:48,706 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-09 21:52:49,354 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-09 21:52:49,508 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:52:54,192 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 21:52:54,194 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 21:52:59,862 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 21:52:59,870 [main] INFO CTM SDET test - ******** Validate the Title *********
+2020-02-09 21:52:59,882 [main] INFO CTM SDET test - Current Url is: https://energy.comparethemarket.com/energy/v2/
+2020-02-09 21:52:59,882 [main] INFO CTM SDET test - ******** Validate the Title and Header *********
+2020-02-09 21:52:59,890 [main] INFO CTM SDET test - Current Title is: Energy - Compare Gas and Electricity Suppliers | Compare The Market
+2020-02-09 21:53:00,011 [main] INFO CTM SDET test - Current Header is: Energy quote
+2020-02-09 21:53:00,013 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-09 21:53:00,072 [main] INFO CTM SDET test - Sub_Header Displayed for your_supplier: Your supplier
+2020-02-09 21:53:00,119 [main] INFO CTM SDET test - Sub_Header Displayed for your_energy: Your energy
+2020-02-09 21:53:00,160 [main] INFO CTM SDET test - Sub_Header Displayed for your_details: Your details
+2020-02-09 21:53:00,206 [main] INFO CTM SDET test - Sub_Header Displayed for your_result: Your results
+2020-02-09 21:53:00,252 [main] INFO CTM SDET test - Sub_Header Displayed for switch now: Switch now
+2020-02-09 21:53:00,254 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:00,254 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:00,413 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:53:04,392 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 21:53:04,394 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 21:53:10,938 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 21:53:10,943 [main] INFO CTM SDET test - ******** Validate the Sub Text *********
+2020-02-09 21:53:11,037 [main] INFO CTM SDET test -  Static Text Displayed: Been here before?
+2020-02-09 21:53:11,038 [main] INFO CTM SDET test -  Static Text Displayed_1: Save yourself some time by reviewing or editing a previous quote.
+2020-02-09 21:53:11,039 [main] INFO CTM SDET test - ******** Validate the Previous Energy Quotes *********
+2020-02-09 21:53:11,085 [main] INFO CTM SDET test - Link Text is: Previous energy quotes
+2020-02-09 21:53:15,732 [main] INFO CTM SDET test - Navigating to Sign in Bage:https://signin.comparethemarket.com/login?signin=83e4185bed7a4d60c3eb654aa6b42157
+2020-02-09 21:53:15,740 [main] INFO CTM SDET test - New Page Title is: Sign in
+2020-02-09 21:53:18,549 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-09 21:53:18,663 [main] INFO CTM SDET test - Been_here_btn_text Displayed is: How to get started?
+2020-02-09 21:53:18,832 [main] INFO CTM SDET test - Been_here_is Clicked
+2020-02-09 21:53:19,138 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:19,138 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:19,303 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:53:24,048 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 21:53:24,051 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 21:53:28,560 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 21:53:28,566 [main] INFO CTM SDET test - ******** Validate Current Supplier Text *********
+2020-02-09 21:53:28,626 [main] INFO CTM SDET test - Current Supplier Text is: Your current supplier
+2020-02-09 21:53:28,675 [main] INFO CTM SDET test - Post Code Text is: What is your postcode?
+2020-02-09 21:53:28,677 [main] INFO CTM SDET test - ******** Validate Post code without Any input *********
+2020-02-09 21:53:28,678 [main] INFO CTM SDET test - Check the Find PostCode Button
+2020-02-09 21:53:28,766 [main] INFO CTM SDET test - ******** Validate Error message is not displayed in Post code Area *********
+2020-02-09 21:53:28,981 [main] INFO CTM SDET test - Error message is not getting displayed
+2020-02-09 21:53:28,984 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-09 21:53:29,379 [main] INFO CTM SDET test - ******** Validate Error message is displayed in Post code Area *********
+2020-02-09 21:53:29,475 [main] INFO CTM SDET test - Error message is getting displayed
+2020-02-09 21:53:29,478 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-09 21:53:29,872 [main] INFO CTM SDET test - ******** Validate Error message is  not displayed in Post code Area and Button text is changed *********
+2020-02-09 21:53:30,632 [main] INFO CTM SDET test - Button is changed to Change Postcode
+2020-02-09 21:53:30,634 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:30,634 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:30,881 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 21:53:34,476 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 21:53:34,478 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 21:53:39,778 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 21:53:39,784 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-09 21:53:39,959 [main] INFO CTM SDET test - ******** Verify the Error message at Bottom of Page *********
+2020-02-09 21:53:40,019 [main] INFO CTM SDET test - Error Message Displayed isComplete postcode question to continue  view question
+2020-02-09 21:53:40,020 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 21:53:40,021 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:01:58,469 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:02:05,755 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-10 09:02:05,755 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-10 09:02:11,363 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-10 09:02:11,830 [main] INFO CTM SDET test - ********Valid Post code passed to the Post code field*********
+2020-02-10 09:02:11,830 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-10 09:02:12,808 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-10 09:02:12,808 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-10 09:02:17,514 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-10 09:02:17,514 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-10 09:02:20,860 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:02:20,860 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:02:21,203 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:02:30,032 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-10 09:02:33,788 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-10 09:02:37,078 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-10 09:02:37,125 [main] INFO CTM SDET test - *****************Click on Next Button***************
+2020-02-10 09:02:37,533 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-10 09:02:37,706 [main] INFO CTM SDET test - *****************Select the Amount Field in Current Electricity Usage***************
+2020-02-10 09:02:45,526 [main] INFO CTM SDET test - *****************Validate The Bill date fields get populated in Screen***************
+2020-02-10 09:02:45,649 [main] INFO CTM SDET test - *****************Select the KWH in Current Electricity Usage***************
+2020-02-10 09:02:46,160 [main] INFO CTM SDET test - *****************Validate Current Electricity Usage fields displayed ***************
+2020-02-10 09:02:46,368 [main] INFO CTM SDET test - *****************Select the KWH in Current Electricity Usage***************
+2020-02-10 09:02:46,784 [main] INFO CTM SDET test - *****************Validate fields get populated in Screen***************
+2020-02-10 09:02:47,737 [main] INFO CTM SDET test - *****************Validate Your Gas page ***************
+2020-02-10 09:02:47,932 [main] INFO CTM SDET test - *****************Click on Next Button ***************
+2020-02-10 09:02:48,236 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-10 09:02:48,368 [main] INFO CTM SDET test - *****************Select the Amount Field in Current Gas Usage***************
+2020-02-10 09:02:53,890 [main] INFO CTM SDET test - *****Verify the Calendar is getting Displayed when Amount is Selected*********
+2020-02-10 09:02:54,075 [main] INFO CTM SDET test - *****************Select the KWh Field in Current Gas Usage***************
+2020-02-10 09:02:54,258 [main] INFO CTM SDET test - *****Verify the Calendar is not getting Displayed when Kwh is Selected*********
+2020-02-10 09:02:54,567 [main] INFO CTM SDET test - *****************Click on Next Button ***************
+2020-02-10 09:02:54,983 [main] INFO CTM SDET test - *****Validate Your Details Page*********
+2020-02-10 09:02:55,906 [main] INFO CTM SDET test - *****Close the Browser*********
+2020-02-10 09:02:56,062 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:03:06,954 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-10 09:03:10,891 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-10 09:03:31,082 [main] INFO CTM SDET test - *****************Validate Your Details page***************
+2020-02-10 09:03:31,222 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-10 09:03:31,481 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-10 09:03:31,617 [main] INFO CTM SDET test - *****************Select the Fixed Tarif***************
+2020-02-10 09:03:31,869 [main] INFO CTM SDET test - *****************Select the Monthly Direct Debit***************
+2020-02-10 09:03:32,145 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-10 09:03:32,453 [main] INFO CTM SDET test - ***************** Check The Different Error message ***************
+2020-02-10 09:03:32,509 [main] INFO CTM SDET test - ***************** Check The Contact Details Text ***************
+2020-02-10 09:03:32,581 [main] INFO CTM SDET test - ***************** Check The Email Field ***************
+2020-02-10 09:03:33,047 [main] INFO CTM SDET test - ***************** Check The Email Field for Error***************
+2020-02-10 09:03:33,111 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-10 09:03:33,975 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-10 09:03:34,153 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:03:45,460 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-10 09:03:49,144 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-10 09:04:07,865 [main] INFO CTM SDET test - *****************Validate Your Details page***************
+2020-02-10 09:04:08,049 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-10 09:04:08,277 [main] INFO CTM SDET test - *****************Validate Error message***************
+2020-02-10 09:04:08,389 [main] INFO CTM SDET test - *****************Select the Fixed Tarif***************
+2020-02-10 09:04:08,609 [main] INFO CTM SDET test - *****************Select the Monthly Direct Debit***************
+2020-02-10 09:04:08,937 [main] INFO CTM SDET test - *****************Click On Go Prices Link***************
+2020-02-10 09:04:09,125 [main] INFO CTM SDET test - ***************** Check The Different Error message ***************
+2020-02-10 09:04:09,173 [main] INFO CTM SDET test - ***************** Check The Contact Details Text ***************
+2020-02-10 09:04:09,229 [main] INFO CTM SDET test - ***************** Check The Email Field ***************
+2020-02-10 09:04:09,649 [main] INFO CTM SDET test - ***************** Check The Email Field for Error***************
+2020-02-10 09:04:09,709 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-10 09:04:10,481 [main] INFO CTM SDET test - *****************Provide other Information***************
+2020-02-10 09:04:10,593 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:04:14,373 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-10 09:04:14,373 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-10 09:04:19,140 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-10 09:04:19,152 [main] INFO CTM SDET test - ******** Validate the Title *********
+2020-02-10 09:04:19,168 [main] INFO CTM SDET test - Current Url is: https://energy.comparethemarket.com/energy/v2/
+2020-02-10 09:04:19,168 [main] INFO CTM SDET test - ******** Validate the Title and Header *********
+2020-02-10 09:04:19,176 [main] INFO CTM SDET test - Current Title is: Energy - Compare Gas and Electricity Suppliers | Compare The Market
+2020-02-10 09:04:19,295 [main] INFO CTM SDET test - Current Header is: Energy quote
+2020-02-10 09:04:19,299 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-10 09:04:19,379 [main] INFO CTM SDET test - Sub_Header Displayed for your_supplier: Your supplier
+2020-02-10 09:04:19,427 [main] INFO CTM SDET test - Sub_Header Displayed for your_energy: Your energy
+2020-02-10 09:04:19,471 [main] INFO CTM SDET test - Sub_Header Displayed for your_details: Your details
+2020-02-10 09:04:19,515 [main] INFO CTM SDET test - Sub_Header Displayed for your_result: Your results
+2020-02-10 09:04:19,563 [main] INFO CTM SDET test - Sub_Header Displayed for switch now: Switch now
+2020-02-10 09:04:19,563 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:19,563 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:19,781 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:04:23,542 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-10 09:04:23,542 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-10 09:04:28,538 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-10 09:04:28,542 [main] INFO CTM SDET test - ******** Validate the Sub Text *********
+2020-02-10 09:04:28,672 [main] INFO CTM SDET test -  Static Text Displayed: Been here before?
+2020-02-10 09:04:28,672 [main] INFO CTM SDET test -  Static Text Displayed_1: Save yourself some time by reviewing or editing a previous quote.
+2020-02-10 09:04:28,672 [main] INFO CTM SDET test - ******** Validate the Previous Energy Quotes *********
+2020-02-10 09:04:28,735 [main] INFO CTM SDET test - Link Text is: Previous energy quotes
+2020-02-10 09:04:30,406 [main] INFO CTM SDET test - Navigating to Sign in Bage:https://signin.comparethemarket.com/login?signin=dcc971d2afc0885f35fe66c5fcc0f37f
+2020-02-10 09:04:30,414 [main] INFO CTM SDET test - New Page Title is: Sign in
+2020-02-10 09:04:32,637 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-10 09:04:32,761 [main] INFO CTM SDET test - Been_here_btn_text Displayed is: How to get started?
+2020-02-10 09:04:32,985 [main] INFO CTM SDET test - Been_here_is Clicked
+2020-02-10 09:04:33,321 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:33,321 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:33,485 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:04:37,559 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-10 09:04:37,590 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-10 09:04:42,289 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-10 09:04:42,297 [main] INFO CTM SDET test - ******** Validate Current Supplier Text *********
+2020-02-10 09:04:42,353 [main] INFO CTM SDET test - Current Supplier Text is: Your current supplier
+2020-02-10 09:04:42,405 [main] INFO CTM SDET test - Post Code Text is: What is your postcode?
+2020-02-10 09:04:42,409 [main] INFO CTM SDET test - ******** Validate Post code without Any input *********
+2020-02-10 09:04:42,409 [main] INFO CTM SDET test - Check the Find PostCode Button
+2020-02-10 09:04:42,489 [main] INFO CTM SDET test - ******** Validate Error message is not displayed in Post code Area *********
+2020-02-10 09:04:42,823 [main] INFO CTM SDET test - Error message is not getting displayed
+2020-02-10 09:04:42,823 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-10 09:04:43,327 [main] INFO CTM SDET test - ******** Validate Error message is displayed in Post code Area *********
+2020-02-10 09:04:43,435 [main] INFO CTM SDET test - Error message is getting displayed
+2020-02-10 09:04:43,439 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-10 09:04:43,920 [main] INFO CTM SDET test - ******** Validate Error message is  not displayed in Post code Area and Button text is changed *********
+2020-02-10 09:04:44,921 [main] INFO CTM SDET test - Button is changed to Change Postcode
+2020-02-10 09:04:44,921 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:44,921 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:45,053 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-10 09:04:48,759 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-10 09:04:48,759 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-10 09:04:53,867 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-10 09:04:53,871 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-10 09:04:54,130 [main] INFO CTM SDET test - ******** Verify the Error message at Bottom of Page *********
+2020-02-10 09:04:54,210 [main] INFO CTM SDET test - Error Message Displayed isComplete postcode question to continue  view question
+2020-02-10 09:04:54,210 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-10 09:04:54,210 [main] INFO CTM SDET test - ******** Closing the browser*********
